@@ -1,1 +1,19 @@
 *{margin: 0; padding: 0;}
+.header{
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 50px;
+}
+h4{
+    margin: 20px;
+}
+.parrafos{
+    margin:150px;
+}
+p{
+    font-size: 20px;
+    margin: 20px;
+}
