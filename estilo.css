@@ -1,19 +1,27 @@
 *{margin: 0; padding: 0;}
+
+.principal{
+    width: 100%;
+}
+
 .header{
     text-align: center;
-    padding: 20px;
+    background-color: rgb(138, 76, 153 );
 }
 h1{
     font-family: 'Fascinate Inline', cursive;
     font-size: 50px;
 }
 h4{
-    margin: 20px;
+padding: 10px;
 }
 .parrafos{
-    margin:150px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(212, 195, 216);
 }
+
 p{
     font-size: 20px;
-    margin: 20px;
+    padding: 10px;
 }
