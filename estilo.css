@@ -8,11 +8,11 @@
     text-align: center;
     background-color: rgb(138, 76, 153 );
 }
-h1{
+.header h1{
     font-family: 'Fascinate Inline', cursive;
     font-size: 50px;
 }
-h4{
+.header h4{
 padding: 10px;
 }
 .parrafos{
@@ -21,7 +21,33 @@ padding: 10px;
     background-color: rgb(212, 195, 216);
 }
 
-p{
+.parrafos p{
     font-size: 20px;
     padding: 10px;
+}
+
+.img1{
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 15%;
+}
+.img2{
+    display: inline-block;
+}
+
+.content1{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    background-color: rgb(237, 98, 8 );
+    font-size: 20px;
+    padding-top: 10px;
+}
+.subcontent1{
+    background: black;
+    width: 20%;
+    margin: auto;
+    border-radius: 20px;
+}
+.subcontent1 p{
+    color: white;
 }
