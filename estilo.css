@@ -65,6 +65,17 @@ padding: 10px;
     font-size: 20px;
     padding-top: 10px;
 }
+.subcontent4{
+    margin: auto;
+    margin-top: 10px;
+    background-color: black;
+    width: 30%;
+    padding: 1%;
+    border-radius: 20px;
+}
+.subcontent4 p{
+    color: white;
+}
 .subcontent2{
     background: black;
     width: 30%;
@@ -109,7 +120,7 @@ padding: 10px;
 .content7{
     font-family: 'Indie Flower', cursive;
     text-align: center;
-    background-color: rgb(255, 0, 193 );
+    background-color: rgb(255, 51, 0);
     font-size: 20px;
     padding-top: 10px;
 }
