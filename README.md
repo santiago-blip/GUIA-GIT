@@ -1,2 +1,2 @@
-# GUIA-SENA-GIT
+# GUIA-GIT
 Trabajo
